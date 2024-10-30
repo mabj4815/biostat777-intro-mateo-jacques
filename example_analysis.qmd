@@ -204,6 +204,17 @@ ggplot(flights_summary, aes(x = day, y = factor(month,
 
 ```
 
+
+###### Summary of the results:
+
+Through this analysis we have explored departure delays in flights leaving from airports in New York City
+First, we examined which carriers had the most departure delay, and found that SkyWest and Express Jet, some regional carriers, have the 
+highest mean delay time.
+Then we examined if airport of destination was associated to departure delay, and although there were differences they were not major. 
+Lastly, we examined if the holidays were associated to departure delay, and found that there are some delays in the Summer between late June / early July, but that the end of year holidays are not significanrtly associated to delays.
+
+
+
 ::: callout-note
 Hey TA: This is what I used:
 :::
