@@ -1,0 +1,65 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+I am Mateo Jacques, a Cancer Epidemiologist with a focus on the intersection of epidemiology, HIV-associated malignancies, and public health. My research uses machine learning and longitudinal data analysis to generate insights that improve cancer outcomes, especially in vulnerable populations. 
+
+I earned my MD from ITESM and advanced my training with an MPH and ScM from top institutions, currently pursuing a PhD in Epidemiology. Outside of academia, I enjoy exploring interdisciplinary collaborations and applying analytics to real-world health challenges---
+
+Note: The Following section is recicled from Project 0 from Statistical Computing
+
+## Education 🎓
+
+
+<div style="margin-bottom: 20px;">
+  <strong style="color:#007bff;">Johns Hopkins Bloomberg School of Public Health</strong> | <span style="color:#6c757d;">Baltimore, USA</span><br>
+  <span style="color:#28a745;">PhD in Epidemiology</span> <em>(Expected 2027)</em><br>
+  <span style="color:#28a745;">ScM in Epidemiology</span> <em>(2023)</em>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong style="color:#007bff;">Instituto Nacional de Salud Pública</strong> | <span style="color:#6c757d;">Mexico City, MEX</span><br>
+  <span style="color:#28a745;">MPH in Epidemiology</span> <em>(2021)</em>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong style="color:#007bff;">Instituto Tecnológico y de Estudios Superiores de Monterrey</strong> | <span style="color:#6c757d;">Monterrey, MEX</span><br>
+  <span style="color:#28a745;">Doctor of Medicine</span> <em>(2018)</em>
+</div>
+
+## Publications 📚
+
+- Barquet-Muñoz S, **Bandala-Jacques A**, Perez-Montiel MD, Prada D, Martínez-Flores M, Salcedo-Hernández RA, Pérez-Plasencia C, Gonzalez-Enciso A, Leon DC. (2024). <span style="color:#800020;">Factors Associated with Parametrial Involvement in Endometrial Carcinoma in Patients Treated with Radical Hysterectomy</span>. *Int J Surg Pathol*, 22 Feb. doi: [10.1177/10668969231225773](https://doi.org/10.1177/10668969231225773). PMID: 38389391.
+
+- Dadabhai S, Quaynor L, **Bandala-Jacques A**, Seyama L, Rahman MH, et al. (2024). <span style="color:#800020;">Intimate partner violence and excess fertility among women of reproductive age in Malawi</span>. *PLOS ONE*, 19(1): e0297959. doi: [10.1371/journal.pone.0297959](https://doi.org/10.1371/journal.pone.0297959).
+
+- Taha TE, **Bandala-Jacques A**, Yende-Zuma N, Violari A, Stranix-Chibanda L, et al. (2024). <span style="color:#800020;">Breastfeeding Among Women Living With HIV in the Era of Lifelong ART: An Observational Multicountry Study in Eastern and Southern Africa</span>. *JAIDS J Acquir Immune Defic Syndr*. doi: [10.1097/QAI.0000000000003306](https://doi.org/10.1097/QAI.0000000000003306).
+
+- **Bandala-Jacques A**, Unger-Saldaña K, Huerta-Gutiérrez R, Zamora-Munoz S, Hernández-Ávila JE, Cabrera-Galeana P, et al. (2023). <span style="color:#800020;">Breast cancer survival in Mexico between 2007 and 2016 in women without social security: a retrospective cohort study</span>. *Lancet Reg Health Am*. doi: [10.1016/j.lana.2023.100541](https://doi.org/10.1016/j.lana.2023.100541).
+
+- Isla-Ortiz D, Torres-Domínguez J, Pérez-Peralta L, Jiménez-Barrera H, **Bandala-Jacques A**, Meneses-García A, Reynoso-Noverón N. (2023). <span style="color:#800020;">Insurance status and access to cervical cancer treatment in a specialized cancer center in Mexico</span>. *Medicine (Baltimore)*. doi: [10.1097/MD.0000000000033655](https://doi.org/10.1097/MD.0000000000033655).
+
+- Jaurrieta-Rico C, Picazo-Ferrera K, Aguilar-Solis R, Escobedo-Paredes D, **Bandala-Jaques A**, Chavez-Gomez V, Hernandez-Guerrero A, Alonso-Larraga J. (2022). <span style="color:#800020;">Comparison between Two Types of 22-Gauge Fine-Needle Biopsy for Solid Pancreatic Tumors</span>. *GE Port J Gastroenterol*. doi: [10.1159/000521465](https://doi.org/10.1159/000521465).
+
+- **Bandala-Jacques A**, Castellanos Esquivel KD, Pérez-Hurtado F, Hernández-Silva C, Reynoso-Noverón N. (2021). <span style="color:#800020;">Prostate Cancer Risk Calculators for Healthy Populations: Systematic Review</span>. *JMIR Cancer*, 7(3): e30430.
+
+- Elizalde-Méndez Á, Esparza-Arias N, Bargalló-Rocha JE, Maciel-Miranda A, Figueroa-Padilla J, Drucker-Zertuche M, **Bandala-Jacques A**, Barquet-Muñoz SA. (2021). <span style="color:#800020;">Factors associated with complications in reconstruction in patients with breast cancer treated with mastectomy</span>. *Gac. Mex. Oncol*. doi: [10.24875/j.gamo.20000105](https://doi.org/10.24875/j.gamo.20000105).
+
+- Arredondo-Gálvez CG, Acuña-González D, Cantú-de-León D, Chanona-Vilchis JG, Avilés-Salas A, González-Enciso A, **Bandala-Jaques A**, Barquet-Muñoz SA. (2021). <span style="color:#800020;">Association of p16 and Ki-67 with Risk of Recurrence in Previously Treated Cervical High-Grade Squamous Intraepithelial Lesions</span>. *Gynecol Obstet Invest*, 86(3): 293–298. doi: [10.1159/000515894](https://doi.org/10.1159/000515894).
+
+- **Bandala-Jacques A**, Cantú-de-León D, Pérez-Montiel D, et al. (2020). <span style="color:#800020;">Diagnostic performance of intraoperative assessment in grade 2 endometrioid endometrial carcinoma</span>. *World J Surg Onc*, 18, 284. doi: [10.1186/s12957-020-02056-7](https://doi.org/10.1186/s12957-020-02056-7).
+
+- Barquet-Muñoz SA, Cantú-de-León D, **Bandala-Jacques A**, et al. (2020). <span style="color:#800020;">What is the impact of radical hysterectomy on endometrial cancer with cervical involvement?</span> *World J Surg Onc*, 18, 101. doi: [10.1186/s12957-020-01876-x](https://doi.org/10.1186/s12957-020-01876-x).
+
+- **Bandala-Jacques A**, Romero-Mendoza A, Cantú-de-León D. (2021). <span style="color:#800020;">Temperature should not be measured on forearm with infrared thermometers for Covid-19 screening</span>. *Salud Publica Mex*. doi: [10.21149/12025](https://doi.org/10.21149/12025).
+
+- **Bandala-Jacques A**, Hernández-Cruz IA, Castro-Hernández C, et al. (2020). <span style="color:#800020;">Prognostic Significance of the MAD1L1 1673 G:A Polymorphism in Ovarian Adenocarcinomas</span>. *Rev. invest. clín.*, 72(6): 372-379. doi: [10.24875/ric.19003280](https://doi.org/10.24875/ric.19003280).
+
+- Cruz-Camino H, Vázquez-Cantú M, Vázquez-Cantú DL, Santos-Guzmán J, **Bandala-Jacques A**, Gómez-Gutiérrez R, Cantú-Reyna C. (2020). <span style="color:#800020;">Clinical Characterization of 2 Siblings with a Homozygous SPAST Variant</span>. *Am J Case Rep*, 21: e919463. doi: [10.12659/AJCR.919463](https://doi.org/10.12659/AJCR.919463).
+
+- **Bandala-Jacques A**, Estrada-Rivera F, Cantú-de-León D, et al. (2019). <span style="color:#800020;">Role of optimal cytoreduction in patients with dysgerminoma</span>. *Int J Gynecol Cancer*, 29: 1405-1410. doi: [10.1136/ijgc-2019-000632](http://dx.doi.org/10.1136/ijgc-2019-000632).
+
+
